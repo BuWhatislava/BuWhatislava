@@ -11,6 +11,12 @@
   height="25"
 />
 
+/> Hi! <img
+  src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"
+  alt="light"
+  width="25"
+  height="25"
+/>
 Facts about me:
 - :sparkles: Graduated from college with a degree in Network and System Administration.
 - I am currently a 2nd year student at the institute.
