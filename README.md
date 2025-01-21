@@ -1,6 +1,5 @@
 
-Hi there ![](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png width="45" height="45")
-
+Hi there <img src="[/images/output/video1.gif](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png)" width="30" height="30"/>
 Facts about me:
 - :sparkles: Graduated from college with a degree in Network and System Administration.
 - :memo: I am currently a 2nd year student at the institute.
