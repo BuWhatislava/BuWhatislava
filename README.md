@@ -1,5 +1,10 @@
 
-Hi there<img
+<img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png"
+  alt="Star"
+  width="25"
+  height="25"
+/> Hi! <img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png"
   alt="Star"
   width="25"
